@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Web & Software Development Projects:</h2>
 
-  - [Display a Cute Cat Image](https://github.com/KeroSIneD/CatImageDisplay)
+  - [Final project for CodePath](https://github.com/KeroSIneD/CodePathCapstone)
 
 <h2> 🤳 Connect with me:</h2>
 
